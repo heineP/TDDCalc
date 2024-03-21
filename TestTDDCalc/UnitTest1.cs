@@ -26,7 +26,7 @@ public class UnitTest1
         Calculator calc = new Calculator();
         // Act
         int result = calc.Subtract(37, 7);
-        int correct = 30;
+        int correct = 29;
         // Assert
         Assert.Equal(correct, result);
     }
