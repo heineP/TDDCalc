@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDCalc", "TDDCalc\TDDCalc.csproj", "{FB01B01F-07C6-450D-8EA8-9F0A5A0409F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTDDCalc", "TestTDDCalc\TestTDDCalc.csproj", "{AA0221A9-DCFC-4133-B9BE-A4E31BAF5B1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{FB01B01F-07C6-450D-8EA8-9F0A5A0409F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB01B01F-07C6-450D-8EA8-9F0A5A0409F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB01B01F-07C6-450D-8EA8-9F0A5A0409F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA0221A9-DCFC-4133-B9BE-A4E31BAF5B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0221A9-DCFC-4133-B9BE-A4E31BAF5B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0221A9-DCFC-4133-B9BE-A4E31BAF5B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0221A9-DCFC-4133-B9BE-A4E31BAF5B1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
